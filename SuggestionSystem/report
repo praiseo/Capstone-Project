@@ -1,1 +1,2 @@
 Given two cities, the system will find out how similar or dissimilar the city food culture is, based on the most popular restaurant type in that particular city. Using this information, the system will suggest what type of restaurant would be more profitable to open in those cities.
+Investors and businessmen looking to open restaurants in a particular city would find this information useful as they can see if a particular city's interest in a particular cuisine is similar to another city's. If yes, then what type of restaurant would bring maximum profit.
