@@ -2,3 +2,4 @@ I would be using foursquare data as well as data from a dataset from Kaggle whic
 We would use the cities data and generate the most popular restaurant type and second most popular restaurant using the foursquare data for each city and store it in a database.
 Now when an investor is looking to invest into either a particular restaurant type, then he/she can enter the restaurant type and get the city names where he can start that particular type of restaurant in the USA.
 To do this, I would be creating a database of most popular restaurant type in cities which would require the city data and the foursquare restaurant list and data.
+For example, if the investor is interested to check in which cities "Italian Food" restaurant chain would be most popular, then we would return the entire list of cities that has a lot of "Italian food" restaurants.
