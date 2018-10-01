@@ -21,3 +21,16 @@ So there were four steps to it:
 - Get foursquare data for these cities and store
 - Take the input from the user for the type of restaurant
 - Check which cities have this restaurant type as the most popular
+
+
+To get the city data, the csv file was downloaded and the data from the csv file was extracted. This csv file had a lot of redundant data, so data cleaning was done and only the required data was stored. Then for each city, the foursquare data was extracted and stored. Since the foursquare data could have upper case or lower case or mix, they were converted to lower case and then stored.
+Then after taking the user input, the cities who have restaurant type same as the user's interest are returned.
+
+## Results
+The result of this project is the list of cities who are interested in this cuisine type. If the restaurant type entered by the user is not present in the database, then we print that it's not one of the popular but if it's interesting, you can try it.
+
+## Discussion
+If we could get the most popular cuisine of the country and state, that would be more useful as we would get a generic idea and pattern of eating habits of the people and how people's popular cuisine relates to the climate there. For example, icecream parlors may be more popular in Texas and Arizona than in Seattle (No, icecream parlors are popular everywhere)
+
+## Conclusion
+In conclusion, this project is mainly focuses to help the businessmen, franchise owners as well as small businessmen looking to open a profitable restaurant in their city or help the tourists taste the most popular food of the city.
